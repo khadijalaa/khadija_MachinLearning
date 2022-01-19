@@ -14,3 +14,12 @@ For å unngå at modellen kun lærer på friske hoster har SMOTE blitt brukt som
 Modellen som er brukt er LSTM da det er en modell som er god på tid.
 
 plot_master_project viser noe av visualiseringen som har blitt brukt underveis av utviklingen.
+
+
+Andre filer:
+
+TTT4185_assignment_2_2020-09-28: Klassifisering ved bruk av Bayes Decision Rule og Support Vector Machines. 
+
+TTT4185_assignment_3a_2020-10-19: Klassifisering ved av Deep Neural Networks
+
+TTT4185_assignment_3b_2020-10-19: Regresjonsanalyse
